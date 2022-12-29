@@ -21,3 +21,4 @@ services:
     - docker push jesterhead101/multi-nginx
     - docker push jesterhead101/multi-server
     - docker push jesterhead101/multi-worker
+    
