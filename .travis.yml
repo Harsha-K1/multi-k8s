@@ -14,3 +14,10 @@ services:
     - docker build -t jesterhead101/multi-nginx ./nginx
     - docker build -t jesterhead101/multi-server ./server
     - docker build -t jesterhead101/multi-worker ./worker
+    #Log in to the docker CLI
+    - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin 
+    #Take those images and push to docker hub
+    - docker push jesterhead101/multi-client
+    - docker push jesterhead101/multi-nginx
+    - docker push jesterhead101/multi-server
+    - docker push jesterhead101/multi-worker
