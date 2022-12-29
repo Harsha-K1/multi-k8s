@@ -1,0 +1,16 @@
+sudo: required
+language: generic
+services:
+  - docker
+
+  before_install:
+    - docker build -t jesterhead101/react-test -f ./client/Dockerfile.dev ./client
+
+  script:
+    - docker run -e CI=true jesterhead101/react-test npm test
+
+  after_success:
+    - docker build -t jesterhead101/multi-client ./client
+    - docker build -t jesterhead101/multi-nginx ./nginx
+    - docker build -t jesterhead101/multi-server ./server
+    - docker build -t jesterhead101/multi-worker ./worker
