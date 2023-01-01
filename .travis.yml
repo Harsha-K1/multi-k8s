@@ -24,12 +24,12 @@ after_success:
 
 deploy:
   provider: elasticbeanstalk
-  region: 'ap-northeast-1'
+  region: 'ap-northeast-1' # from EBS page
   app: 'mulit-docker'
   env: 'MulitDocker-env'
   bucket_name: 'elasticbeanstalk-ap-northeast-1-720471010358'
   bucket_path: 'docker-multi'
   on:
     branch: master
-  access_key_id: $AWS_ACCESS_KEY
+  access_key_id: $AWS_ACCESS_KEY # set in travis app settings->environment variables.
   secret_access_key: $AWS_SECRET_KEY
