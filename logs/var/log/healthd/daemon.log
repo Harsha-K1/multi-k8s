@@ -1,0 +1,142 @@
+# Logfile created on 2022-12-30 09:02:44 +0000 by logger.rb/66358
+A, [2022-12-30T09:02:44.464088 #3881]   ANY -- : healthd daemon 1.0.6 initialized
+W, [2022-12-30T09:02:44.562936 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-09" does not exist
+W, [2022-12-30T09:02:49.563196 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-09" does not exist
+W, [2022-12-30T09:02:54.563421 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-09" does not exist
+W, [2022-12-30T09:02:59.563660 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-09" does not exist
+W, [2022-12-30T10:00:02.125077 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-10" does not exist
+W, [2022-12-30T11:00:00.095365 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-11" does not exist
+W, [2022-12-30T11:00:05.095638 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-11" does not exist
+W, [2022-12-30T12:00:00.137943 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-12" does not exist
+W, [2022-12-30T12:00:05.138239 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-12" does not exist
+W, [2022-12-30T13:00:00.661588 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-13" does not exist
+W, [2022-12-30T13:00:05.661850 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-13" does not exist
+W, [2022-12-30T13:00:10.662137 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-13" does not exist
+W, [2022-12-30T15:00:01.424917 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-15" does not exist
+W, [2022-12-30T16:00:01.580357 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-16" does not exist
+W, [2022-12-30T17:00:01.835297 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-17" does not exist
+W, [2022-12-30T17:00:06.835567 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-17" does not exist
+W, [2022-12-30T18:00:02.098529 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-18" does not exist
+W, [2022-12-30T18:00:07.098765 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-18" does not exist
+W, [2022-12-30T19:00:02.670130 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-19" does not exist
+W, [2022-12-30T19:00:07.670398 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-19" does not exist
+W, [2022-12-30T19:00:12.670722 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-19" does not exist
+W, [2022-12-30T20:00:00.410188 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-20" does not exist
+W, [2022-12-30T21:00:00.725872 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-21" does not exist
+W, [2022-12-30T22:00:00.980842 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-22" does not exist
+W, [2022-12-30T22:00:05.981099 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-22" does not exist
+W, [2022-12-30T23:00:01.311731 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-23" does not exist
+W, [2022-12-30T23:00:06.312003 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-30-23" does not exist
+W, [2022-12-31T00:00:01.789690 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-00" does not exist
+W, [2022-12-31T00:00:06.789978 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-00" does not exist
+W, [2022-12-31T02:00:02.187606 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-02" does not exist
+W, [2022-12-31T03:00:00.162582 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-03" does not exist
+W, [2022-12-31T03:00:05.162832 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-03" does not exist
+W, [2022-12-31T04:00:00.479687 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-04" does not exist
+W, [2022-12-31T04:00:05.479945 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-04" does not exist
+W, [2022-12-31T05:00:00.723044 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-05" does not exist
+W, [2022-12-31T05:00:05.723339 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-05" does not exist
+W, [2022-12-31T05:00:10.723641 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-05" does not exist
+W, [2022-12-31T07:00:01.548071 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-07" does not exist
+W, [2022-12-31T08:00:01.768706 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-08" does not exist
+W, [2022-12-31T09:00:01.982574 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-09" does not exist
+W, [2022-12-31T09:00:06.982827 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-09" does not exist
+W, [2022-12-31T10:00:02.461012 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-10" does not exist
+W, [2022-12-31T10:00:07.461275 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-10" does not exist
+W, [2022-12-31T12:00:00.660105 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-12" does not exist
+W, [2022-12-31T13:00:00.942839 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-13" does not exist
+W, [2022-12-31T14:00:01.489486 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-14" does not exist
+W, [2022-12-31T14:00:06.489778 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-14" does not exist
+W, [2022-12-31T15:00:01.705645 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-15" does not exist
+W, [2022-12-31T15:00:06.705904 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-15" does not exist
+W, [2022-12-31T16:00:02.194267 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-16" does not exist
+W, [2022-12-31T16:00:07.194536 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-16" does not exist
+W, [2022-12-31T16:00:12.194791 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-16" does not exist
+W, [2022-12-31T18:00:00.177083 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-18" does not exist
+W, [2022-12-31T19:00:00.677672 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-19" does not exist
+W, [2022-12-31T19:00:05.677943 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-19" does not exist
+W, [2022-12-31T20:00:01.200448 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-20" does not exist
+W, [2022-12-31T20:00:06.200715 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-20" does not exist
+W, [2022-12-31T21:00:01.471510 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-21" does not exist
+W, [2022-12-31T21:00:06.471762 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-21" does not exist
+W, [2022-12-31T21:00:11.472058 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-21" does not exist
+W, [2022-12-31T23:00:02.108904 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2022-12-31-23" does not exist
+W, [2023-01-01T00:00:02.481803 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-00" does not exist
+W, [2023-01-01T01:00:00.478238 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-01" does not exist
+W, [2023-01-01T01:00:05.478495 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-01" does not exist
+W, [2023-01-01T02:00:00.723483 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-02" does not exist
+W, [2023-01-01T02:00:05.723750 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-02" does not exist
+W, [2023-01-01T02:00:10.724007 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-02" does not exist
+W, [2023-01-01T04:00:01.567301 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-04" does not exist
+W, [2023-01-01T05:00:01.571955 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-05" does not exist
+W, [2023-01-01T06:00:02.053893 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-06" does not exist
+W, [2023-01-01T06:00:07.054168 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-06" does not exist
+W, [2023-01-01T07:00:02.360354 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-07" does not exist
+W, [2023-01-01T07:00:07.360630 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-07" does not exist
+W, [2023-01-01T08:00:02.564844 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-08" does not exist
+W, [2023-01-01T08:00:07.565098 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-08" does not exist
+W, [2023-01-01T08:00:12.565353 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-08" does not exist
+W, [2023-01-01T09:00:00.559359 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-09" does not exist
+W, [2023-01-01T10:00:00.902530 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-10" does not exist
+W, [2023-01-01T11:00:01.149719 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-11" does not exist
+W, [2023-01-01T11:00:06.149991 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-11" does not exist
+W, [2023-01-01T12:00:01.332776 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-12" does not exist
+W, [2023-01-01T12:00:06.333089 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-12" does not exist
+W, [2023-01-01T13:00:01.781620 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-13" does not exist
+W, [2023-01-01T13:00:06.781892 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-13" does not exist
+W, [2023-01-01T13:00:11.782216 #3881]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-13" does not exist
+F, [2023-01-01T14:11:10.697260 #3881] FATAL -- : /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/puma-5.3.2/lib/puma/launcher.rb:476:in `block in setup_signals': SIGTERM (SignalException)
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/puma-5.3.2/lib/puma/single.rb:61:in `join'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/puma-5.3.2/lib/puma/single.rb:61:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/puma-5.3.2/lib/puma/launcher.rb:181:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/puma-5.3.2/lib/puma/cli.rb:80:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/healthd-1.0.6/bin/healthd:112:in `block in <top (required)>'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/healthd-1.0.6/bin/healthd:19:in `chdir'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/2.6.0/gems/healthd-1.0.6/bin/healthd:19:in `<top (required)>'
+	from /opt/elasticbeanstalk/lib/ruby/bin/healthd:23:in `load'
+	from /opt/elasticbeanstalk/lib/ruby/bin/healthd:23:in `<main>'
+A, [2023-01-01T14:11:11.911334 #649]   ANY -- : healthd daemon 1.0.6 initialized
+W, [2023-01-01T14:11:22.049459 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"0", :namespace=>"application", :timestamp=>1672582010, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049545 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"1", :namespace=>"application", :timestamp=>1672582030, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049575 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"2", :namespace=>"application", :timestamp=>1672582040, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049599 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"3", :namespace=>"application", :timestamp=>1672582060, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049646 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"4", :namespace=>"application", :timestamp=>1672582070, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049676 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"5", :namespace=>"application", :timestamp=>1672582090, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049698 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"6", :namespace=>"application", :timestamp=>1672582100, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049719 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"7", :namespace=>"application", :timestamp=>1672582120, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049739 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"8", :namespace=>"application", :timestamp=>1672582130, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049760 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"9", :namespace=>"application", :timestamp=>1672582150, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049780 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"10", :namespace=>"application", :timestamp=>1672582160, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049801 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"11", :namespace=>"application", :timestamp=>1672582180, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:22.049822 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"12", :namespace=>"application", :timestamp=>1672582190, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951078 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"0", :namespace=>"application", :timestamp=>1672581760, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951165 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"1", :namespace=>"application", :timestamp=>1672581770, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951195 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"2", :namespace=>"application", :timestamp=>1672581790, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951219 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"3", :namespace=>"application", :timestamp=>1672581800, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951241 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"4", :namespace=>"application", :timestamp=>1672581820, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951262 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"5", :namespace=>"application", :timestamp=>1672581830, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951283 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"6", :namespace=>"application", :timestamp=>1672581850, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951303 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"7", :namespace=>"application", :timestamp=>1672581860, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951324 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"8", :namespace=>"application", :timestamp=>1672581880, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951345 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"9", :namespace=>"application", :timestamp=>1672581890, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951367 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"10", :namespace=>"application", :timestamp=>1672581910, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951388 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"11", :namespace=>"application", :timestamp=>1672581920, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951410 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"12", :namespace=>"application", :timestamp=>1672581940, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,1],[0.003,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951431 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"13", :namespace=>"application", :timestamp=>1672581950, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951452 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"14", :namespace=>"application", :timestamp=>1672581970, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951477 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"15", :namespace=>"application", :timestamp=>1672581980, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:31.951499 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"16", :namespace=>"application", :timestamp=>1672582000, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,2]],\"http_counters\":{\"status_200\":3,\"request_count\":3}}"}
+W, [2023-01-01T14:11:41.947917 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"0", :namespace=>"application", :timestamp=>1672581610, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,1],[0.003,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948004 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"1", :namespace=>"application", :timestamp=>1672581620, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948033 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"2", :namespace=>"application", :timestamp=>1672581630, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948056 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"3", :namespace=>"application", :timestamp=>1672581640, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948078 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"4", :namespace=>"application", :timestamp=>1672581650, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948099 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"5", :namespace=>"application", :timestamp=>1672581670, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948119 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"6", :namespace=>"application", :timestamp=>1672581680, :data=>"{\"duration\":10,\"latency_histogram\":[[0.001,1],[0.002,1]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948140 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"7", :namespace=>"application", :timestamp=>1672581700, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948160 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"8", :namespace=>"application", :timestamp=>1672581710, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948180 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"9", :namespace=>"application", :timestamp=>1672581730, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T14:11:41.948201 #649]  WARN -- : discarding statistic item after validation error (Invalid timestamp): {:id=>"10", :namespace=>"application", :timestamp=>1672581740, :data=>"{\"duration\":10,\"latency_histogram\":[[0.002,2]],\"http_counters\":{\"status_200\":2,\"request_count\":2}}"}
+W, [2023-01-01T15:00:00.040170 #649]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-15" does not exist
+W, [2023-01-01T16:00:00.486590 #649]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-16" does not exist
+W, [2023-01-01T16:00:05.486831 #649]  WARN -- : log file "/var/log/nginx/healthd/application.log.2023-01-01-16" does not exist

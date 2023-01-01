@@ -1,0 +1,20 @@
+2022-12-30 09:02:04,061 [INFO] -----------------------Starting build-----------------------
+2022-12-30 09:02:04,068 [INFO] Running configSets: _OnInstanceBoot
+2022-12-30 09:02:04,070 [INFO] Running configSet _OnInstanceBoot
+2022-12-30 09:02:04,073 [INFO] Running config AWSEBBaseConfig
+2022-12-30 09:02:04,383 [INFO] Command clearbackupfiles succeeded
+2022-12-30 09:02:04,387 [INFO] Running config AWSEBCfnHupEndpointOverride
+2022-12-30 09:02:04,390 [INFO] Command clearbackupfiles succeeded
+2022-12-30 09:02:04,392 [INFO] ConfigSets completed
+2022-12-30 09:02:04,392 [INFO] -----------------------Build complete-----------------------
+2022-12-30 09:02:12,882 [INFO] -----------------------Starting build-----------------------
+2022-12-30 09:02:12,888 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2022-12-30 09:02:12,891 [INFO] Running configSet Infra-EmbeddedPreBuild
+2022-12-30 09:02:12,893 [INFO] Running config prebuild_0_mulit_docker
+2022-12-30 09:02:12,895 [INFO] ConfigSets completed
+2022-12-30 09:02:12,895 [INFO] -----------------------Build complete-----------------------
+2022-12-30 09:02:45,295 [INFO] -----------------------Starting build-----------------------
+2022-12-30 09:02:45,301 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2022-12-30 09:02:45,304 [INFO] Running configSet Infra-EmbeddedPostBuild
+2022-12-30 09:02:45,304 [INFO] ConfigSets completed
+2022-12-30 09:02:45,304 [INFO] -----------------------Build complete-----------------------

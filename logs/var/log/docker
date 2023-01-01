@@ -1,0 +1,19 @@
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.360139779Z" level=info msg="Starting up"
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.381807644Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.381832196Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.381854621Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock  <nil> 0 <nil>}] <nil> <nil>}" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.381868244Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.427327349Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.427351604Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.427372009Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock  <nil> 0 <nil>}] <nil> <nil>}" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.427383045Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+Dec 30 09:02:11 ip-172-31-40-154 docker: time="2022-12-30T09:02:11.547807930Z" level=info msg="Loading containers: start."
+Dec 30 09:02:12 ip-172-31-40-154 docker: time="2022-12-30T09:02:12.067508421Z" level=info msg="Default bridge (docker0) is assigned with an IP address 172.17.0.0/16. Daemon option --bip can be used to set a preferred IP address"
+Dec 30 09:02:12 ip-172-31-40-154 docker: time="2022-12-30T09:02:12.178105730Z" level=info msg="Loading containers: done."
+Dec 30 09:02:12 ip-172-31-40-154 docker: time="2022-12-30T09:02:12.225921916Z" level=info msg="Docker daemon" commit=a89b842 graphdriver(s)=overlay2 version=20.10.17
+Dec 30 09:02:12 ip-172-31-40-154 docker: time="2022-12-30T09:02:12.226375777Z" level=info msg="Daemon has completed initialization"
+Dec 30 09:02:12 ip-172-31-40-154 docker: time="2022-12-30T09:02:12.260125540Z" level=info msg="API listen on /run/docker.sock"
+Dec 30 09:02:43 ip-172-31-40-154 docker: time="2022-12-30T09:02:43.047811147Z" level=info msg="Layer sha256:3fbc0cfa07c76655417ad98a0dee381ec5951599ce46136757b92b189df82d43 cleaned up"
+Dec 30 09:02:43 ip-172-31-40-154 docker: time="2022-12-30T09:02:43.136783152Z" level=info msg="Layer sha256:3fbc0cfa07c76655417ad98a0dee381ec5951599ce46136757b92b189df82d43 cleaned up"
+Jan  1 14:11:22 ip-172-31-40-154 docker: time="2023-01-01T14:11:22.739781409Z" level=info msg="Container failed to exit within 10s of signal 15 - using the force" container=a1a3244206a09bff06624cb6056e95aece69cbb12938fca4997fd5489d2c5f68
+Jan  1 14:11:22 ip-172-31-40-154 docker: time="2023-01-01T14:11:22.763534075Z" level=info msg="ignoring event" container=a1a3244206a09bff06624cb6056e95aece69cbb12938fca4997fd5489d2c5f68 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
