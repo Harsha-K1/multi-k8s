@@ -53,17 +53,17 @@ class Fib extends Component {
         return (
             <div>
                 <form onSubmit={this.handleSubmit}>
-                    <label>Enter your index:</label>
+                    <label>Enter your fib number :</label>
                     <input
                         value={this.state.index}
                         onChange={event => this.setState({index: event.target.value})} 
                     />
                     <button>Submit</button>
                 </form>
-                <h3>Indexes I have seen:</h3>
+                <h3>Indexes I have stored :</h3>
                 {this.renderSeenIndexes()}
 
-                <h3>Calculated values:</h3>
+                <h3>Calculated values for stored indices :</h3>
                 {this.renderValues()}
             </div>
         )
