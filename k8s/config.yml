@@ -1,0 +1,21 @@
+version: 2.1
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+
+jobs:
+  build:
+    working_directory: .
+    docker:
+      - image: node:14.4.0-alpine # Primary execution image
+    steps:
+      - checkout
+      - run: |
+          curl https://sdk.cloud.google.com | bash -s -- --disable-prompts > /dev/null;
+          source $HOME/google-cloud-sdk/path.bash.inc
+          ~/google-cloud-sdk/bin/gcloud components update kubectl
+          ~/google-cloud-sdk/bin/gcloud auth activate-service-account --key-file service-account.json
+      
