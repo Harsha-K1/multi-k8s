@@ -8,7 +8,7 @@ workflows:
 
 jobs:
   build:
-    working_directory: .
+    working_directory: ~/multi-k8s
     docker:
       - image: node:14.4.0-alpine # Primary execution image
     steps:
